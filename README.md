@@ -49,13 +49,13 @@ Designed and implemented for **KAUST Network Security & Threat Intelligence Rese
 ## 📷 Screenshots & Dashboard UI
 
 ### SOC Operations Dashboard
-![SOC Dashboard](docs/dashboard.PNG)
+![SOC Dashboard](Screenshots/dashboard.PNG)
 
 ### Real-Time Alerts & Threat Logging
-![Alerts Overview](docs/alerts.PNG)
+![Alerts Overview](Screenshots/alerts.PNG)
 
 ### Packet Capture & Engine Terminal Output
-![Terminal View](docs/terminal.PNG)
+![Terminal View](Screenshots/terminal.PNG)
 
 
 ✨Key Features:
