@@ -46,6 +46,18 @@ Designed and implemented for **KAUST Network Security & Threat Intelligence Rese
                        └───────────────┬────────────────┘
 
 
+## 📷 Screenshots & Dashboard UI
+
+### SOC Operations Dashboard
+![SOC Dashboard](docs/dashboard.PNG)
+
+### Real-Time Alerts & Threat Logging
+![Alerts Overview](docs/alerts.PNG)
+
+### Packet Capture & Engine Terminal Output
+![Terminal View](docs/terminal.PNG)
+
+
 ✨Key Features:
 
 Hybrid Detection Pipeline: Combines traditional signature rules (for fast detection of known threat signatures like SYN Scans and backdoor ports) with a trained Random Forest Classifier (for flow anomalies and unexpected packet behaviors).
